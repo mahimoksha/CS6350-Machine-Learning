@@ -1,6 +1,6 @@
 # CS5350/6350-Machine-Learning
 ## This is a machine learning library developed by Mokshagna Sai Teja Karanam for CS5350/6350 in University of Utah.
-
+#### For running the Decision Tree
 #### Installation instructions(Run this before you run the other shell-scripts):
 ```
 # Installs pandas, numpy
