@@ -16,7 +16,7 @@ import pickle
 
 
 train_data = pd.read_csv("bank-2/train.csv",header=None)
-print("Running part 3(a)...")
+print("Running part 2(e)...")
 train_data_backup = train_data.copy()
 
 
