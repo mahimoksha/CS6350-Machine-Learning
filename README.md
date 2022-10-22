@@ -17,3 +17,10 @@ Examples:
 ./run_2a.sh 5 entropy
 
 ```
+
+#### For running the Ensemble Learning, Linear Regression
+#### Installation instructions(Run this before you run the other shell-scripts):
+```
+# Installs pandas, numpy, pickle, matplotlib, xlrd(for bonus) version > 1.0.0
+./install.sh
+```  
