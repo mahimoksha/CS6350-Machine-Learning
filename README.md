@@ -21,6 +21,13 @@ Examples:
 #### For running the Ensemble Learning, Linear Regression
 #### Installation instructions(Run this before you run the other shell-scripts):
 ```
-# Installs pandas, numpy, pickle, matplotlib, xlrd(for bonus) version > 1.0.0
+# Install pandas, numpy, pickle, matplotlib, xlrd(for bonus) version > 1.0.0
+./install.sh
+```  
+
+#### For running the Perceptron
+#### Installation instructions(Run this before you run the other shell-scripts):
+```
+# Install pandas, numpy by running
 ./install.sh
 ```  
