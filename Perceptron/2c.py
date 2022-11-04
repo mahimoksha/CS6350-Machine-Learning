@@ -78,16 +78,3 @@ for x,y in zip(x_test,y_test):
 print("The learned weight vector is ",a)
 print("The Average Learned weight vector is ",a/len(X))
 print("for learning rate {} the error is {} and the average prediction error {}".format(r,error,error/len(x_test)))
-
-
-# In[8]:
-
-
-a
-
-
-# In[ ]:
-
-
-
-
