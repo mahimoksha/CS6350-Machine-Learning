@@ -19,6 +19,8 @@ Examples:
 ```
 
 #### For running the Ensemble Learning, Linear Regression
+
+#### Before running the sh files, please make sure permissions are enabled:
 #### Installation instructions(Run this before you run the other shell-scripts):
 ```
 # Install pandas, numpy, pickle, matplotlib, xlrd(for bonus) version > 1.0.0
@@ -26,7 +28,7 @@ Examples:
 ```  
 
 #### For running the Perceptron
-####Before running the sh files, please make sure permissions are enabled by executing the following commands:
+#### Before running the sh files, please make sure permissions are enabled by executing the following commands:
 #### chmod +x install.sh
 #### chmod +x run_2a.sh
 #### chmod +x run_2b.sh
