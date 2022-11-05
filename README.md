@@ -26,6 +26,11 @@ Examples:
 ```  
 
 #### For running the Perceptron
+####Before running the sh files, please make sure permissions are enabled by executing the following commands:
+#### chmod +x install.sh
+#### chmod +x run_2a.sh
+#### chmod +x run_2b.sh
+#### chmod +x run_2c.sh
 #### Installation instructions(Run this before you run the other shell-scripts):
 ```
 # Install pandas, numpy by running
