@@ -38,3 +38,10 @@ Examples:
 # Install pandas, numpy by running
 ./install.sh
 ```  
+#### For running the SVM
+#### Run the sh files for each problem like run_2a.sh and so on:
+#### Installation instructions:
+```
+# Install pandas, numpy, scipy, warnings by running
+./install.sh
+```  
