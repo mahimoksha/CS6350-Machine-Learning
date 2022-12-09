@@ -56,11 +56,11 @@ Examples:
 
 ##### I have created 2 notebooks for 2a question where 2a1 includes running one training example of bank dataset and it will list out all the gradients of weights and it will take 2 arguments represents width of each layer as this question is asking 2 layers give 2 arguments as follows to see the results:
 ```
-run\_$2a1.sh$ 5 5
+run_$2a1.sh$ 5 5
 
-run\_$2a1.sh$ 2 4
+run_$2a1.sh$ 2 4
 ```
 #####For running 2a2 (verify the results of problem 3) run the command:
 ```
-run\_$2a2.sh$
+run_$2a2.sh$
 ```
