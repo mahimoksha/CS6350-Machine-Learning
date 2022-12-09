@@ -48,6 +48,7 @@ Examples:
 
 #### For running the Neural Network
 #### Run the sh files for each problem to get the results:
+####please make sure permissions are enabled for installation
 #### Installation instructions:
 ```
 # Install pandas, numpy, tensorflow, warnings by running
