@@ -65,3 +65,14 @@ run_2a1.sh 2 4
 ```
 run_2a2.sh
 ```
+
+#### For running the Logistic Regression
+#### Before running the sh files, please make sure permissions are enabled by executing the following commands:
+#### chmod +x install.sh
+#### chmod +x run_3a.sh
+#### chmod +x run_3b.sh
+#### Installation instructions(Run this before you run the other shell-scripts):
+```
+# Install pandas, numpy by running
+./install.sh
+```  
