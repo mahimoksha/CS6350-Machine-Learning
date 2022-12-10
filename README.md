@@ -48,7 +48,13 @@ Examples:
 
 #### For running the Neural Network
 #### Run the sh files for each problem to get the results:
-#### please make sure permissions are enabled for installation
+#### Before running the sh files, please make sure permissions are enabled by executing the following commands:
+#### chmod +x install.sh
+#### chmod +x run_2a1.sh
+#### chmod +x run_2a2.sh
+#### chmod +x run_2b.sh
+#### chmod +x run_2c.sh
+#### chmod +x run_2e.sh
 #### Installation instructions:
 ```
 # Install pandas, numpy, tensorflow, warnings by running
