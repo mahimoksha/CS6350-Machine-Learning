@@ -82,3 +82,13 @@ run_2a2.sh
 # Install pandas, numpy by running
 ./install.sh
 ```  
+
+## For running the ML Project
+#### In this github repository the project is uploaded in the folder ML Project where make sure the install.sh and run project.sh by running the following:
+#### chmod +x install.sh
+#### chmod +x run project.sh
+#### Installation instructions(Run this before you run the shell-script):
+```
+./install.sh
+```
+##### By running the project (run project.sh) all the models that is discussed above will invoke and save the respective predicted test probability values in the same path.
